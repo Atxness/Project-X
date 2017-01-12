@@ -1,3 +1,3 @@
 # Project-X
 
-Everyone has to start somewhere, this is where coding begins
+Everyone has to start somewhere, this is where my coding begins
